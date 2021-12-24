@@ -102,7 +102,7 @@ goto end
 :help
 echo ==========DB Manager===========
 echo.
-echo db [run/stop] <%%dbname%%>
+echo db [run/stop] ^<%%dbname%%^>
 echo.
 echo available database:
 echo.
